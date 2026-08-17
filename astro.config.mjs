@@ -5,7 +5,6 @@ import tailwind from '@astrojs/tailwind';
 import { autoNewTabExternalLinks } from './src/autoNewTabExternalLinks';
 import partytown from '@astrojs/partytown';
 
-// https://astro.build/config
 export default defineConfig({
   site: 'https://bhupesh.com.np',
 
