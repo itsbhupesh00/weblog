@@ -2,7 +2,7 @@
 title: 'Third post: How to become a succesful software developer'
 slug: 'third-post'
 description: 'Lorem ipsum dolor sit amet'
-tags: ["Dummy Tag"]
+tags: ["first"]
 pubDate: 'Jul 22 2022'
 coverImage: './blog-placeholder-3.jpg'
 ---
